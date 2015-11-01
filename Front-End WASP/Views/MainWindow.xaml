@@ -1,0 +1,24 @@
+﻿<Window x:Class="Front_End_WASP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Система порівняння досліджень WASP-IV" Height="382" Width="618">
+    <Grid>
+        <Menu Height="25" VerticalAlignment="Top">
+            <MenuItem Header="Файл">
+                <MenuItem Name="addNewStudyItem" Header="Нове дослідження" Click="addNewStudyItem_Click_1"> </MenuItem>
+                <MenuItem Name="viewStudyItem" Header="Переглянути дослідження" Click="viewStudyItem_Click_1"></MenuItem>
+                <MenuItem Name="compareStudyItem" Header="Порівняти дослідження" Click="compareStudyItem_Click_1"></MenuItem>
+                <Separator></Separator>
+                <MenuItem Name="exitItem" Header="Вихід" Click="exitItem_Click_1"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Станції">
+                <MenuItem Name="blockListItem" Header="Список блоків" Click="blockListItem_Click"></MenuItem>
+                <MenuItem Name="blockTypesListItem" Header="Список типів блоків" Click="blockTypesListItem_Click"></MenuItem>
+                <MenuItem Name="addNewBlocksItem" Header="Додати блоки з файлу" Click="addNewBlocksItem_Click"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <Image Margin="0,25,0,0" Source="../Images/raes.jpg" />
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,9 @@
+﻿<Window x:Class="Front_End_WASP.Views.WindowPlantsTypes"
+       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PlantsTypesWindow" Height="231.253" Width="167.254" Loaded="Window_Loaded_1"  Closing="Window_Closing_1" ResizeMode="NoResize" SizeToContent="Width" WindowStartupLocation="CenterOwner" WindowStyle="ToolWindow">
+    <Grid>
+        <DataGrid Name="dataTable" Margin="0,0,0,11"/>
+        
+    </Grid>
+</Window>

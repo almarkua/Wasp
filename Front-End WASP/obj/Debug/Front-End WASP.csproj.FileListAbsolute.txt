@@ -1,0 +1,71 @@
+c:\users\simafor\documents\visual studio 2012\Projects\Front-End WASP\Front-End WASP\bin\Debug\Front-End WASP.exe.config
+c:\users\simafor\documents\visual studio 2012\Projects\Front-End WASP\Front-End WASP\bin\Debug\Front-End WASP.exe
+c:\users\simafor\documents\visual studio 2012\Projects\Front-End WASP\Front-End WASP\bin\Debug\Front-End WASP.pdb
+c:\users\simafor\documents\visual studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP_MarkupCompile.cache
+c:\users\simafor\documents\visual studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP.g.resources
+c:\users\simafor\documents\visual studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front_End_WASP.Properties.Resources.resources
+c:\users\simafor\documents\visual studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP.csproj.GenerateResource.Cache
+c:\users\simafor\documents\visual studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP.exe
+c:\users\simafor\documents\visual studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP.pdb
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\MainWindow.baml
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\MainWindow.g.cs
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\App.g.cs
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP.csprojResolveAssemblyReference.cache
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowAddNewStudy.baml
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowAddNewStudy.g.cs
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\bin\Debug\db_wasp.sdf
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP_Content.g.cs
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowStudy.baml
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowStudy.g.cs
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowReView.baml
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowReView.g.cs
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowChart.baml
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowCompare.baml
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowChart.g.cs
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowCompare.g.cs
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\bin\Debug\WPFToolkit.dll
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\bin\Debug\WPFToolkit.pdb
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowPlants.g.cs
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP_MarkupCompile.lref
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowPlants.baml
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowPlantsTypes.baml
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowPlantsTypes.g.cs
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowAddPlants.baml
+C:\Users\SimafoR\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowAddPlants.g.cs
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\bin\Debug\Front-End WASP.exe.config
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP.exe
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP.pdb
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\bin\Debug\db_wasp.sdf
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\bin\Debug\Front-End WASP.exe
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\bin\Debug\Front-End WASP.pdb
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\bin\Debug\WPFToolkit.dll
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\bin\Debug\WPFToolkit.pdb
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP.csprojResolveAssemblyReference.cache
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\MainWindow.baml
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowAddNewStudy.baml
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowAddPlants.baml
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowChart.baml
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowCompare.baml
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowPlantsTypes.baml
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowReView.baml
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowStudy.baml
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\MainWindow.g.cs
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowAddNewStudy.g.cs
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowAddPlants.g.cs
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowChart.g.cs
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowCompare.g.cs
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowPlants.g.cs
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowPlantsTypes.g.cs
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowReView.g.cs
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowStudy.g.cs
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\App.g.cs
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP_Content.g.cs
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP_MarkupCompile.cache
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP_MarkupCompile.lref
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Views\WindowPlants.baml
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP.g.resources
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front_End_WASP.Properties.Resources.resources
+D:\oldWin\Documents\Visual Studio 2012\Projects\Front-End WASP\Front-End WASP\obj\Debug\Front-End WASP.csproj.GenerateResource.Cache
